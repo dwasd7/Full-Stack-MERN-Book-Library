@@ -8,7 +8,6 @@ mongoose.connect("mongodb+srv://(USERNAME):(PASSWORD)@cluster0.9limpvk.mongodb.n
 
 ![image](https://user-images.githubusercontent.com/84002353/189511247-3f8e14b1-a5de-4635-ac4c-4043a5952b8c.png)
 ![image](https://user-images.githubusercontent.com/84002353/189511250-beb3bcc6-47c0-4816-b81c-dff82120edb7.png)
-![image](https://user-images.githubusercontent.com/84002353/189511256-8fc6fbf2-bc40-4649-a906-ed98018cbd05.png)
 ![image](https://user-images.githubusercontent.com/84002353/189511270-27367b30-dbdb-43e9-8e1e-06973963d77e.png)
 ![image](https://user-images.githubusercontent.com/84002353/189511278-504f33df-65bf-465e-8653-e683361c611e.png)
 ![image](https://user-images.githubusercontent.com/84002353/189511297-3146abc6-1301-468b-a164-1cc926138dc1.png)
