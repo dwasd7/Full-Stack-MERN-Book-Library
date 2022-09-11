@@ -1,3 +1,23 @@
+
+FULLSTACK CURD MERN APPLICATION WITH MANY OTHER LIBRARIES
+
+TO USE THE APP, REPLACE THE User and Password from Mongodb after creating a database and the file is in backend/app.js 
+mongoose.connect("mongodb+srv://(USERNAME):(PASSWORD)@cluster0.9limpvk.mongodb.net/?retryWrites=true&w=majority")
+
+
+
+![image](https://user-images.githubusercontent.com/84002353/189511247-3f8e14b1-a5de-4635-ac4c-4043a5952b8c.png)
+![image](https://user-images.githubusercontent.com/84002353/189511250-beb3bcc6-47c0-4816-b81c-dff82120edb7.png)
+![image](https://user-images.githubusercontent.com/84002353/189511256-8fc6fbf2-bc40-4649-a906-ed98018cbd05.png)
+![image](https://user-images.githubusercontent.com/84002353/189511270-27367b30-dbdb-43e9-8e1e-06973963d77e.png)
+![image](https://user-images.githubusercontent.com/84002353/189511278-504f33df-65bf-465e-8653-e683361c611e.png)
+![image](https://user-images.githubusercontent.com/84002353/189511297-3146abc6-1301-468b-a164-1cc926138dc1.png)
+![image](https://user-images.githubusercontent.com/84002353/189511310-4c113cae-2fab-4839-96fc-7546ec1e4254.png)
+![image](https://user-images.githubusercontent.com/84002353/189511321-92ea503e-6512-4cfb-bcef-b060ecf335eb.png)
+![image](https://user-images.githubusercontent.com/84002353/189511334-a010ed7e-47d0-4012-8914-54cfc909a323.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
